@@ -21,6 +21,5 @@ If you find this repository useful, please consider citing:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distributed under the MIT License. 
 
